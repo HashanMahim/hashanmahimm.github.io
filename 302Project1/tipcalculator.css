@@ -1,0 +1,50 @@
+#results {
+    display:none;
+  }
+
+  body {
+    background-color: #086dd2; 
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    background-color: #fc0707; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .heading {
+    color: #007bff; 
+  }
+  
+  .input-group-addon {
+    background-color: #e9ecef;
+    border: none;
+    color: #495057;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  #results {
+    background-color: #00cdf6;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #tip-form {
+    margin-bottom: 20px;
+  }
+  
+  .tipPersent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  #tipOutput {
+    margin-left: 10px;
+  }
+  
+  
